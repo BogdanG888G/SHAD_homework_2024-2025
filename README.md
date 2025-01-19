@@ -1,5 +1,6 @@
 # Репозиторий с решенными ДЗ из Школы Аналитиков Данных от МТС
 
+<img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 200>
 У нас есть несколько блоков:
 
 * SQL
