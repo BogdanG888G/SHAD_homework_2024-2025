@@ -1,0 +1,48 @@
+{
+  "catboost": {
+    "bagging_temperature": 0.7693328418282213,
+    "depth": 10.0,
+    "iterations": 833,
+    "l2_leaf_reg": 2.644872282528268,
+    "leaf_estimation_iterations": 20,
+    "learning_rate": 0.0036437708925194496,
+    "random_strength": 2.775505385695524
+  },
+  "lightgbm": {
+    "colsample_bytree": 0.7207293163181685,
+    "learning_rate": 0.010704375504982596,
+    "max_depth": 11,
+    "min_child_samples": 10,
+    "n_estimators": 897.428386213131,
+    "num_leaves": 117.4065185664988,
+    "reg_alpha": 0.04310616334361142,
+    "reg_lambda": 0.3205857953902766,
+    "subsample": 0.6031440910620923
+  },
+  "randomforest": {
+    "criterion": "squared_error",
+    "max_depth": -1,
+    "max_features": 0.8225647051698298,
+    "min_samples_leaf": 2,
+    "min_samples_split": 10,
+    "n_estimators": 792.6514083179175
+  },
+  "xgboost": {
+    "colsample_bytree": 0.6941429978531766,
+    "gamma": 1.4947397376924076,
+    "learning_rate": 0.004723329762049837,
+    "max_depth": 9,
+    "min_child_weight": 7,
+    "n_estimators": 1236.8058181152442,
+    "reg_alpha": 0.4977015198513638,
+    "reg_lambda": 0.0017152265904805506,
+    "subsample": 0.6483577718109695
+  },
+  "ngboost": {
+    "col_sample": 0.8522300081375234,
+    "learning_rate": 0.01530759018080334,
+    "minibatch_frac": 0.6061085584966677,
+    "n_estimators": 200,
+    "natural_gradient": false
+  }
+}
